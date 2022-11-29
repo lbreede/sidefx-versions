@@ -1,0 +1,1780 @@
+{
+    "Houdini_19.5": {
+        "Production_Builds": [
+            {
+                "version": "19.5.435",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.5.435-macosx_x86_64_clang12.0_11.dmg"
+            },
+            {
+                "version": "19.5.435",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.5.435-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.5.435",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.5.435-win64-vc142.exe"
+            },
+            {
+                "version": "19.5.435",
+                "python": 3.7,
+                "platform": "win64",
+                "file": "houdini-py37-19.5.435-win64-vc142.exe"
+            },
+            {
+                "version": "19.5.435",
+                "python": 3.7,
+                "platform": "macosx",
+                "file": "houdini-py37-19.5.435-macosx_x86_64_clang12.0_11.dmg"
+            },
+            {
+                "version": "19.5.435",
+                "python": 3.7,
+                "platform": "linux",
+                "file": "houdini-py37-19.5.435-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.5.403",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.5.403-win64-vc142.exe"
+            },
+            {
+                "version": "19.5.403",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.5.403-macosx_x86_64_clang12.0_11.dmg"
+            },
+            {
+                "version": "19.5.403",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.5.403-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.5.403",
+                "python": 3.7,
+                "platform": "win64",
+                "file": "houdini-py37-19.5.403-win64-vc142.exe"
+            },
+            {
+                "version": "19.5.403",
+                "python": 3.7,
+                "platform": "linux",
+                "file": "houdini-py37-19.5.403-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.5.403",
+                "python": 3.7,
+                "platform": "macosx",
+                "file": "houdini-py37-19.5.403-macosx_x86_64_clang12.0_11.dmg"
+            },
+            {
+                "version": "19.5.368",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.5.368-macosx_x86_64_clang12.0_11.dmg"
+            },
+            {
+                "version": "19.5.368",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.5.368-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.5.368",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.5.368-win64-vc142.exe"
+            },
+            {
+                "version": "19.5.368",
+                "python": 3.7,
+                "platform": "macosx",
+                "file": "houdini-py37-19.5.368-macosx_x86_64_clang12.0_11.dmg"
+            },
+            {
+                "version": "19.5.368",
+                "python": 3.7,
+                "platform": "linux",
+                "file": "houdini-py37-19.5.368-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.5.368",
+                "python": 3.7,
+                "platform": "win64",
+                "file": "houdini-py37-19.5.368-win64-vc142.exe"
+            },
+            {
+                "version": "19.5.303",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.5.303-win64-vc142.exe"
+            },
+            {
+                "version": "19.5.303",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.5.303-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.5.303",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.5.303-macosx_x86_64_clang12.0_11.dmg"
+            },
+            {
+                "version": "19.5.303",
+                "python": 3.7,
+                "platform": "win64",
+                "file": "houdini-py37-19.5.303-win64-vc142.exe"
+            },
+            {
+                "version": "19.5.303",
+                "python": 3.7,
+                "platform": "linux",
+                "file": "houdini-py37-19.5.303-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.5.303",
+                "python": 3.7,
+                "platform": "macosx",
+                "file": "houdini-py37-19.5.303-macosx_x86_64_clang12.0_11.dmg"
+            }
+        ],
+        "Daily_Builds": [
+            {
+                "version": "19.5.441",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.5.441-macosx_x86_64_clang12.0_11.dmg"
+            },
+            {
+                "version": "19.5.441",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.5.441-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.5.441",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.5.441-win64-vc142.exe"
+            },
+            {
+                "version": "19.5.440",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.5.440-macosx_x86_64_clang12.0_11.dmg"
+            },
+            {
+                "version": "19.5.440",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.5.440-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.5.440",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.5.440-win64-vc142.exe"
+            }
+        ],
+        "Daily_Builds_-_Python_3_7": [
+            {
+                "version": "19.5.441",
+                "python": 3.7,
+                "platform": "win64",
+                "file": "houdini-py37-19.5.441-win64-vc142.exe"
+            },
+            {
+                "version": "19.5.441",
+                "python": 3.7,
+                "platform": "linux",
+                "file": "houdini-py37-19.5.441-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.5.441",
+                "python": 3.7,
+                "platform": "macosx",
+                "file": "houdini-py37-19.5.441-macosx_x86_64_clang12.0_11.dmg"
+            },
+            {
+                "version": "19.5.440",
+                "python": 3.7,
+                "platform": "win64",
+                "file": "houdini-py37-19.5.440-win64-vc142.exe"
+            },
+            {
+                "version": "19.5.440",
+                "python": 3.7,
+                "platform": "macosx",
+                "file": "houdini-py37-19.5.440-macosx_x86_64_clang12.0_11.dmg"
+            },
+            {
+                "version": "19.5.440",
+                "python": 3.7,
+                "platform": "linux",
+                "file": "houdini-py37-19.5.440-linux_x86_64_gcc9.3.tar.gz"
+            }
+        ],
+        "SideFX_Labs": [
+            {
+                "version": "19.5.441",
+                "file": "SideFXLabs19.5.441.zip"
+            },
+            {
+                "version": "19.5.440",
+                "file": "SideFXLabs19.5.440.zip"
+            },
+            {
+                "version": "19.5.435",
+                "file": "SideFXLabs19.5.435.zip"
+            },
+            {
+                "version": "19.5.403",
+                "file": "SideFXLabs19.5.403.zip"
+            },
+            {
+                "version": "19.5.368",
+                "file": "SideFXLabs19.5.368.zip"
+            },
+            {
+                "version": "19.5.303",
+                "file": "SideFXLabs19.5.303.zip"
+            }
+        ],
+        "Docker": [
+            {
+                "version": "19.5.441",
+                "file": "Houdini19.5.441_Docker.zip"
+            },
+            {
+                "version": "19.5.440",
+                "file": "Houdini19.5.440_Docker.zip"
+            },
+            {
+                "version": "19.5.435",
+                "file": "Houdini19.5.435_Docker.zip"
+            },
+            {
+                "version": "19.5.403",
+                "file": "Houdini19.5.403_Docker.zip"
+            },
+            {
+                "version": "19.5.368",
+                "file": "Houdini19.5.368_Docker.zip"
+            },
+            {
+                "version": "19.5.303",
+                "file": "Houdini19.5.303_Docker.zip"
+            }
+        ],
+        "Apple_Silicon_Builds_Tech_Preview": [
+            {
+                "version": "19.5.441",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.5.441-macosx_arm64_clang12.0_11.dmg"
+            },
+            {
+                "version": "19.5.440",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.5.440-macosx_arm64_clang12.0_11.dmg"
+            }
+        ]
+    },
+    "Houdini_19.0": {
+        "Production_Builds": [
+            {
+                "version": "19.0.720",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.0.720-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.720",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.0.720-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.720",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.0.720-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.657",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.0.657-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.657",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.0.657-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.657",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.0.657-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.622",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.0.622-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.622",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.0.622-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.622",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.0.622-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.589",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.0.589-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.589",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.0.589-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.589",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.0.589-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.561",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.0.561-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.561",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.0.561-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.561",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.0.561-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.531",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.0.531-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.531",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.0.531-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.531",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.0.531-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.498",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.0.498-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.498",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.0.498-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.498",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.0.498-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.455",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.0.455-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.455",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.0.455-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.455",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.0.455-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.383",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.0.383-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.383",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.0.383-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.383",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.0.383-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.720",
+                "python": 2.0,
+                "platform": "win64",
+                "file": "houdini-py2-19.0.720-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.720",
+                "python": 2.0,
+                "platform": "macosx",
+                "file": "houdini-py2-19.0.720-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.720",
+                "python": 2.0,
+                "platform": "linux",
+                "file": "houdini-py2-19.0.720-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.657",
+                "python": 2.0,
+                "platform": "linux",
+                "file": "houdini-py2-19.0.657-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.657",
+                "python": 2.0,
+                "platform": "macosx",
+                "file": "houdini-py2-19.0.657-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.657",
+                "python": 2.0,
+                "platform": "win64",
+                "file": "houdini-py2-19.0.657-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.622",
+                "python": 2.0,
+                "platform": "win64",
+                "file": "houdini-py2-19.0.622-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.622",
+                "python": 2.0,
+                "platform": "linux",
+                "file": "houdini-py2-19.0.622-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.622",
+                "python": 2.0,
+                "platform": "macosx",
+                "file": "houdini-py2-19.0.622-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.589",
+                "python": 2.0,
+                "platform": "win64",
+                "file": "houdini-py2-19.0.589-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.589",
+                "python": 2.0,
+                "platform": "linux",
+                "file": "houdini-py2-19.0.589-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.589",
+                "python": 2.0,
+                "platform": "macosx",
+                "file": "houdini-py2-19.0.589-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.561",
+                "python": 2.0,
+                "platform": "win64",
+                "file": "houdini-py2-19.0.561-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.561",
+                "python": 2.0,
+                "platform": "linux",
+                "file": "houdini-py2-19.0.561-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.561",
+                "python": 2.0,
+                "platform": "macosx",
+                "file": "houdini-py2-19.0.561-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.531",
+                "python": 2.0,
+                "platform": "linux",
+                "file": "houdini-py2-19.0.531-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.531",
+                "python": 2.0,
+                "platform": "macosx",
+                "file": "houdini-py2-19.0.531-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.531",
+                "python": 2.0,
+                "platform": "win64",
+                "file": "houdini-py2-19.0.531-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.498",
+                "python": 2.0,
+                "platform": "win64",
+                "file": "houdini-py2-19.0.498-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.498",
+                "python": 2.0,
+                "platform": "linux",
+                "file": "houdini-py2-19.0.498-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.498",
+                "python": 2.0,
+                "platform": "macosx",
+                "file": "houdini-py2-19.0.498-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.455",
+                "python": 2.0,
+                "platform": "win64",
+                "file": "houdini-py2-19.0.455-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.455",
+                "python": 2.0,
+                "platform": "linux",
+                "file": "houdini-py2-19.0.455-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.455",
+                "python": 2.0,
+                "platform": "macosx",
+                "file": "houdini-py2-19.0.455-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.383",
+                "python": 2.0,
+                "platform": "win64",
+                "file": "houdini-py2-19.0.383-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.383",
+                "python": 2.0,
+                "platform": "linux",
+                "file": "houdini-py2-19.0.383-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.383",
+                "python": 2.0,
+                "platform": "macosx",
+                "file": "houdini-py2-19.0.383-macosx_x86_64_clang11.0_10.15.dmg"
+            }
+        ],
+        "Daily_Builds": [
+            {
+                "version": "19.0.805",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.0.805-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.805",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.0.805-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.805",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.0.805-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.804",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.0.804-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.804",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-19.0.804-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.804",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-19.0.804-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.805",
+                "python": 2.0,
+                "platform": "linux",
+                "file": "houdini-py2-19.0.805-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.805",
+                "python": 2.0,
+                "platform": "macosx",
+                "file": "houdini-py2-19.0.805-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.805",
+                "python": 2.0,
+                "platform": "win64",
+                "file": "houdini-py2-19.0.805-win64-vc142.exe"
+            },
+            {
+                "version": "19.0.804",
+                "python": 2.0,
+                "platform": "macosx",
+                "file": "houdini-py2-19.0.804-macosx_x86_64_clang11.0_10.15.dmg"
+            },
+            {
+                "version": "19.0.804",
+                "python": 2.0,
+                "platform": "linux",
+                "file": "houdini-py2-19.0.804-linux_x86_64_gcc9.3.tar.gz"
+            },
+            {
+                "version": "19.0.804",
+                "python": 2.0,
+                "platform": "win64",
+                "file": "houdini-py2-19.0.804-win64-vc142.exe"
+            }
+        ],
+        "SideFX_Labs": [
+            {
+                "version": "19.0.805",
+                "file": "SideFXLabs19.0.805.zip"
+            },
+            {
+                "version": "19.0.804",
+                "file": "SideFXLabs19.0.804.zip"
+            },
+            {
+                "version": "19.0.720",
+                "file": "SideFXLabs19.0.720.zip"
+            },
+            {
+                "version": "19.0.657",
+                "file": "SideFXLabs19.0.657.zip"
+            },
+            {
+                "version": "19.0.622",
+                "file": "SideFXLabs19.0.622.zip"
+            },
+            {
+                "version": "19.0.589",
+                "file": "SideFXLabs19.0.589.zip"
+            },
+            {
+                "version": "19.0.561",
+                "file": "SideFXLabs19.0.561.zip"
+            },
+            {
+                "version": "19.0.531",
+                "file": "SideFXLabs19.0.531.zip"
+            },
+            {
+                "version": "19.0.498",
+                "file": "SideFXLabs19.0.498.zip"
+            },
+            {
+                "version": "19.0.455",
+                "file": "SideFXLabs19.0.455.zip"
+            },
+            {
+                "version": "19.0.383",
+                "file": "SideFXLabs19.0.383.zip"
+            }
+        ],
+        "Docker": [
+            {
+                "version": "19.0.805",
+                "file": "Houdini19.0.805_Docker.zip"
+            },
+            {
+                "version": "19.0.804",
+                "file": "Houdini19.0.804_Docker.zip"
+            },
+            {
+                "version": "19.0.720",
+                "file": "Houdini19.0.720_Docker.zip"
+            },
+            {
+                "version": "19.0.657",
+                "file": "Houdini19.0.657_Docker.zip"
+            },
+            {
+                "version": "19.0.622",
+                "file": "Houdini19.0.622_Docker.zip"
+            },
+            {
+                "version": "19.0.589",
+                "file": "Houdini19.0.589_Docker.zip"
+            },
+            {
+                "version": "19.0.561",
+                "file": "Houdini19.0.561_Docker.zip"
+            },
+            {
+                "version": "19.0.531",
+                "file": "Houdini19.0.531_Docker.zip"
+            },
+            {
+                "version": "19.0.498",
+                "file": "Houdini19.0.498_Docker.zip"
+            },
+            {
+                "version": "19.0.455",
+                "file": "Houdini19.0.455_Docker.zip"
+            },
+            {
+                "version": "19.0.383",
+                "file": "Houdini19.0.383_Docker.zip"
+            }
+        ],
+        "Apple_Silicon_Builds_Tech_Preview": [
+            {
+                "version": "19.0.805",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.0.805-macosx_arm64_clang12.0_11.dmg"
+            },
+            {
+                "version": "19.0.804",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-19.0.804-macosx_arm64_clang12.0_11.dmg"
+            }
+        ]
+    },
+    "Houdini_18.5": {
+        "Production_Builds_-_Python_3": [
+            {
+                "version": "18.5.759",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.5.759-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.759",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.5.759-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.759",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.5.759-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.696",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.5.696-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.696",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.5.696-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.696",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.5.696-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.672",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.5.672-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.672",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.5.672-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.672",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.5.672-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.633",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.5.633-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.633",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.5.633-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.633",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.5.633-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.596",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.5.596-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.596",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.5.596-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.596",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.5.596-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.563",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.5.563-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.563",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.5.563-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.563",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.5.563-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.532",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.5.532-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.532",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.5.532-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.532",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.5.532-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.499",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.5.499-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.499",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.5.499-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.499",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.5.499-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.462",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.5.462-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.462",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.5.462-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.462",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.5.462-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.408",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.5.408-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.408",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.5.408-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.408",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.5.408-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.351",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.5.351-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.351",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.5.351-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.351",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.5.351-macosx_x86_64_clang10.0_10.14.dmg"
+            }
+        ],
+        "Production_Builds": [
+            {
+                "version": "18.5.759",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.5.759-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.759",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.5.759-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.759",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.5.759-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.696",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.5.696-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.696",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.5.696-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.696",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.5.696-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.672",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.5.672-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.672",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.5.672-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.672",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.5.672-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.633",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.5.633-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.633",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.5.633-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.633",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.5.633-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.596",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.5.596-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.596",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.5.596-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.596",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.5.596-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.563",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.5.563-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.563",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.5.563-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.563",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.5.563-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.532",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.5.532-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.532",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.5.532-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.532",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.5.532-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.499",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.5.499-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.499",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.5.499-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.499",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.5.499-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.462",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.5.462-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.462",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.5.462-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.462",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.5.462-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.408",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.5.408-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.408",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.5.408-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.408",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.5.408-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.351",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.5.351-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.351",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.5.351-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.351",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.5.351-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.1119",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.5.1119-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.1119",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.5.1119-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.1104",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.5.1104-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.1104",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.5.1104-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.1104",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.5.1104-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.1099",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.5.1099-macosx_x86_64_clang10.0_10.14.dmg"
+            }
+        ],
+        "Daily_Builds": [
+            {
+                "version": "18.5.1119",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.5.1119-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.1119",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.5.1119-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.1119",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.5.1119-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.5.1104",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.5.1104-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.5.1104",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.5.1104-win64-vc141.exe"
+            },
+            {
+                "version": "18.5.1104",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.5.1104-macosx_x86_64_clang10.0_10.14.dmg"
+            }
+        ],
+        "SideFX_Labs": [
+            {
+                "version": "18.5.759",
+                "file": "SideFXLabs18.5.759.zip"
+            },
+            {
+                "version": "18.5.696",
+                "file": "SideFXLabs18.5.696.zip"
+            },
+            {
+                "version": "18.5.672",
+                "file": "SideFXLabs18.5.672.zip"
+            },
+            {
+                "version": "18.5.633",
+                "file": "SideFXLabs18.5.633.zip"
+            },
+            {
+                "version": "18.5.596",
+                "file": "SideFXLabs18.5.596.zip"
+            },
+            {
+                "version": "18.5.563",
+                "file": "SideFXLabs18.5.563.zip"
+            },
+            {
+                "version": "18.5.532",
+                "file": "SideFXLabs18.5.532.zip"
+            },
+            {
+                "version": "18.5.499",
+                "file": "SideFXLabs18.5.499.zip"
+            },
+            {
+                "version": "18.5.462",
+                "file": "SideFXLabs18.5.462.zip"
+            },
+            {
+                "version": "18.5.408",
+                "file": "SideFXLabs18.5.408.zip"
+            },
+            {
+                "version": "18.5.351",
+                "file": "SideFXLabs18.5.351.zip"
+            },
+            {
+                "version": "18.5.1119",
+                "file": "SideFXLabs18.5.1119.zip"
+            },
+            {
+                "version": "18.5.1104",
+                "file": "SideFXLabs18.5.1104.zip"
+            }
+        ],
+        "Docker": [
+            {
+                "version": "18.5.759",
+                "file": "Houdini18.5.759_Docker.zip"
+            },
+            {
+                "version": "18.5.672",
+                "file": "Houdini18.5.672_Docker.zip"
+            },
+            {
+                "version": "18.5.633",
+                "file": "Houdini18.5.633_Docker.zip"
+            },
+            {
+                "version": "18.5.596",
+                "file": "Houdini18.5.596_Docker.zip"
+            },
+            {
+                "version": "18.5.499",
+                "file": "Houdini18.5.499_Docker.zip"
+            },
+            {
+                "version": "18.5.462",
+                "file": "Houdini18.5.462_Docker.zip"
+            },
+            {
+                "version": "18.5.408",
+                "file": "Houdini18.5.408_Docker.zip"
+            },
+            {
+                "version": "18.5.1119",
+                "file": "Houdini18.5.1119_Docker.zip"
+            },
+            {
+                "version": "18.5.1104",
+                "file": "Houdini18.5.1104_Docker.zip"
+            }
+        ]
+    },
+    "Houdini_18.0": {
+        "Production_Builds": [
+            {
+                "version": "18.0.597",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.0.597-win64-vc141.exe"
+            },
+            {
+                "version": "18.0.597",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.0.597-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.0.597",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.0.597-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.0.566",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.0.566-win64-vc141.exe"
+            },
+            {
+                "version": "18.0.566",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.0.566-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.0.566",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.0.566-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.0.532",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.0.532-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.0.532",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.0.532-win64-vc141.exe"
+            },
+            {
+                "version": "18.0.532",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.0.532-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.0.499",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.0.499-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.0.499",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.0.499-win64-vc141.exe"
+            },
+            {
+                "version": "18.0.499",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.0.499-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.0.460",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.0.460-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.0.460",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.0.460-win64-vc141.exe"
+            },
+            {
+                "version": "18.0.460",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.0.460-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.0.416",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.0.416-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.0.416",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.0.416-win64-vc141.exe"
+            },
+            {
+                "version": "18.0.416",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.0.416-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.0.391",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.0.391-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.0.391",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.0.391-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.0.391",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.0.391-win64-vc141.exe"
+            },
+            {
+                "version": "18.0.348",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.0.348-win64-vc141.exe"
+            },
+            {
+                "version": "18.0.348",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.0.348-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.0.348",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.0.348-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.0.287",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.0.287-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.0.287",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.0.287-win64-vc141.exe"
+            },
+            {
+                "version": "18.0.287",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.0.287-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.0.1216",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.0.1216-win64-vc141.exe"
+            },
+            {
+                "version": "18.0.1216",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.0.1216-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.0.1216",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.0.1216-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.0.1206",
+                "python": 3.0,
+                "platform": "win64",
+                "file": "houdini-py3-18.0.1206-win64-vc141.exe"
+            },
+            {
+                "version": "18.0.1206",
+                "python": 3.0,
+                "platform": "macosx",
+                "file": "houdini-py3-18.0.1206-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.0.1206",
+                "python": 3.0,
+                "platform": "linux",
+                "file": "houdini-py3-18.0.1206-linux_x86_64_gcc6.3.tar.gz"
+            }
+        ],
+        "Daily_Builds": [
+            {
+                "version": "18.0.1216",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.0.1216-win64-vc141.exe"
+            },
+            {
+                "version": "18.0.1216",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.0.1216-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.0.1216",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.0.1216-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "18.0.1206",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-18.0.1206-win64-vc141.exe"
+            },
+            {
+                "version": "18.0.1206",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-18.0.1206-macosx_x86_64_clang10.0_10.14.dmg"
+            },
+            {
+                "version": "18.0.1206",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-18.0.1206-linux_x86_64_gcc6.3.tar.gz"
+            }
+        ],
+        "SideFX_Labs": [
+            {
+                "version": "18.0.597",
+                "file": "SideFXLabs18.0.597.zip"
+            },
+            {
+                "version": "18.0.566",
+                "file": "SideFXLabs18.0.566.zip"
+            },
+            {
+                "version": "18.0.532",
+                "file": "SideFXLabs18.0.532.zip"
+            },
+            {
+                "version": "18.0.499",
+                "file": "SideFXLabs18.0.499.zip"
+            },
+            {
+                "version": "18.0.1216",
+                "file": "SideFXLabs18.0.1216.zip"
+            },
+            {
+                "version": "18.0.1206",
+                "file": "SideFXLabs18.0.1206.zip"
+            }
+        ],
+        "Docker": [
+            {
+                "version": "18.0.1216",
+                "file": "Houdini18.0.1216_Docker.zip"
+            },
+            {
+                "version": "18.0.1206",
+                "file": "Houdini18.0.1206_Docker.zip"
+            }
+        ]
+    },
+    "Houdini_17.5": {
+        "Production_Builds": [
+            {
+                "version": "17.5.460",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-17.5.460-macosx_x86_64_clang9.1_10.13.dmg"
+            },
+            {
+                "version": "17.5.460",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-17.5.460-win64-vc141.exe"
+            },
+            {
+                "version": "17.5.460",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-17.5.460-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "17.5.425",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-17.5.425-macosx_x86_64_clang9.1_10.13.dmg"
+            },
+            {
+                "version": "17.5.425",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-17.5.425-win64-vc141.exe"
+            },
+            {
+                "version": "17.5.425",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-17.5.425-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "17.5.391",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-17.5.391-win64-vc141.exe"
+            },
+            {
+                "version": "17.5.391",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-17.5.391-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "17.5.391",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-17.5.391-macosx_x86_64_clang9.1_10.13.dmg"
+            }
+        ],
+        "Daily_Builds": [
+            {
+                "version": "17.5.904",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-17.5.904-macosx_x86_64_clang9.1_10.13.dmg"
+            },
+            {
+                "version": "17.5.862",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-17.5.862-macosx_x86_64_clang9.1_10.13.dmg"
+            },
+            {
+                "version": "17.5.1212",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-17.5.1212-win64-vc141.exe"
+            },
+            {
+                "version": "17.5.1212",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-17.5.1212-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "17.5.1211",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-17.5.1211-win64-vc141.exe"
+            },
+            {
+                "version": "17.5.1211",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-17.5.1211-linux_x86_64_gcc6.3.tar.gz"
+            }
+        ]
+    },
+    "Houdini_17.0": {
+        "Production_Builds": [
+            {
+                "version": "17.0.506",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-17.0.506-macosx_x86_64_clang9.0_10.13.dmg"
+            },
+            {
+                "version": "17.0.506",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-17.0.506-win64-vc141.exe"
+            },
+            {
+                "version": "17.0.506",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-17.0.506-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "17.0.459",
+                "python": null,
+                "platform": "linux",
+                "file": "houdini-17.0.459-linux_x86_64_gcc6.3.tar.gz"
+            },
+            {
+                "version": "17.0.459",
+                "python": null,
+                "platform": "macosx",
+                "file": "houdini-17.0.459-macosx_x86_64_clang9.0_10.13.dmg"
+            },
+            {
+                "version": "17.0.459",
+                "python": null,
+                "platform": "win64",
+                "file": "houdini-17.0.459-win64-vc141.exe"
+            }
+        ]
+    }
+}
