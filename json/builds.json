@@ -1,5 +1,5 @@
 {
-    "Houdini_19.5": {
+    "Houdini_19_5": {
         "Production_Builds": [
             {
                 "version": "19.5.435",
@@ -289,7 +289,7 @@
             }
         ]
     },
-    "Houdini_19.0": {
+    "Houdini_19_0": {
         "Production_Builds": [
             {
                 "version": "19.0.720",
@@ -797,7 +797,7 @@
             }
         ]
     },
-    "Houdini_18.5": {
+    "Houdini_18_5": {
         "Production_Builds_-_Python_3": [
             {
                 "version": "18.5.759",
@@ -1365,7 +1365,7 @@
             }
         ]
     },
-    "Houdini_18.0": {
+    "Houdini_18_0": {
         "Production_Builds": [
             {
                 "version": "18.0.597",
@@ -1641,7 +1641,7 @@
             }
         ]
     },
-    "Houdini_17.5": {
+    "Houdini_17_5": {
         "Production_Builds": [
             {
                 "version": "17.5.460",
@@ -1737,7 +1737,7 @@
             }
         ]
     },
-    "Houdini_17.0": {
+    "Houdini_17_0": {
         "Production_Builds": [
             {
                 "version": "17.0.506",

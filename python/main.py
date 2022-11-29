@@ -36,7 +36,7 @@ def parse_html(html: TextIO) -> dict:
         row = row.strip()
 
         if row in HEADINGS:
-            current_heading = row.replace(" ", "_")
+            current_heading = row.replace(" ", "_").replace(".", "_")
             data[current_heading] = {}
             continue
 
