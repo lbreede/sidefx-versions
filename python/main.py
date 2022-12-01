@@ -62,7 +62,7 @@ def houdini(file: str, expand_version=False) -> dict:
     python = (
         None
         if python == "-"
-        else float(re.search(r"-py(\d+)-", python).group(1).ljust(2, "0")) * 0.1
+        else str(float(re.search(r"-py(\d+)-", python).group(1).ljust(2, "0")) * 0.1)
     )
     if expand_version:
         version = _expand_version(version, major, minor, patch)
